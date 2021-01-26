@@ -1,6 +1,6 @@
 ## Carlos Nakid First Portfolio
 
-### Project 1: Simple Sales Analysis
+### Project 1: [Simple Sales Analysis](https://github.com/carlosnkd/Simple-Sales-Analysis)
 
 * This project it´s focus on how I do my aproach to the data and start working on the dataset based on a simple exploratory data analysis. 
   * Combine data
