@@ -9,6 +9,7 @@
 * The data consists on 12 files each on them simulating the sales for an electronic store based on the United States
 * The info here would help (if real) to make business decisions based on the results
 
+[Project 1 code](https://github.com/carlosnkd/Simple-Sales-Analysis/blob/main/Simple%20Sales%20Analysis.ipynb)
 
 ### Preject 2: Basic ML algorithm
 * This project is based on the classic [Titanic Kaggle](https://www.kaggle.com/c/titanic/data) dataset
