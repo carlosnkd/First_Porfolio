@@ -10,6 +10,8 @@
 * The info here would help (if real) to make business decisions based on the results
 
 [Project 1 code](https://github.com/carlosnkd/Simple-Sales-Analysis/blob/main/Simple%20Sales%20Analysis.ipynb)
+![](https://github.com/carlosnkd/First_Porfolio/blob/main/IMAGES/plot.jpg)
+
 
 ### Preject 2: Basic ML algorithm
 * This project is based on the classic [Titanic Kaggle](https://www.kaggle.com/c/titanic/data) dataset
@@ -19,7 +21,8 @@
   * Working with missing values, outliers
   * Feature Engenieering
 * Results for the basic ML algorithm
-
+[Project 2 code]
+ ![](https://github.com/carlosnkd/First_Porfolio/blob/main/IMAGES/Titanic%20Technique.jpg)
 
 
 
