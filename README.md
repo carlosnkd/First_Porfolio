@@ -2,22 +2,24 @@
 
 ### Project 1: [Simple Sales Analysis](https://github.com/carlosnkd/Simple-Sales-Analysis)
 [Code](https://github.com/carlosnkd/Simple-Sales-Analysis/blob/main/Simple%20Sales%20Analysis.ipynb)
-* This project it´s focus on how I do the data aproach based on a simple exploratory analysis.
+* This project it´s focus on my data approach bassed on a exploratory data analysis.
+
+Some topics covered:
   * Combine data
   * Basic Feature Engineering
   * Plot results
   
-* The data consists on 12 files each on them simulating the sales for an electronic store based on the United States
-* The info here would help (if real) to make business decisions based on the results
-
-
+Big Picture of the data:
+* The data consists on 12 sales files.
+* Everyone simulates the sales from an electronic store based on the United States
+* The results could help (if real) business decisions.
 
 ![](https://github.com/carlosnkd/First_Porfolio/blob/main/IMAGES/plot.jpg)
 
 
 
 ### Preject 2: [Basic ML algorithm](https://github.com/carlosnkd/Titanic)
-[Code]
+[Code](https://github.com/carlosnkd/Titanic/blob/main/Titanic.ipynb)
 * This project is based on the classic [Titanic Kaggle](https://www.kaggle.com/c/titanic/data) dataset
 * The main goal is to show the process before get the hands-on the ML model
   * Understanding the data and prepare it
@@ -26,6 +28,7 @@
   * Feature Engenieering
 * Results for the basic ML algorithm
 
+The main goal is to predict whether a Titanic passenger survived the accident or not.
 
  ![](https://github.com/carlosnkd/First_Porfolio/blob/main/IMAGES/Titanic%20Technique.jpg)
 
