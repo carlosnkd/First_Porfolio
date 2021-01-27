@@ -16,7 +16,8 @@
 
 
 
-### Preject 2: Basic ML algorithm
+### Preject 2: [Basic ML algorithm](https://github.com/carlosnkd/Titanic)
+[Code]
 * This project is based on the classic [Titanic Kaggle](https://www.kaggle.com/c/titanic/data) dataset
 * The main goal is to show the process before get the hands-on the ML model
   * Understanding the data and prepare it
@@ -24,7 +25,7 @@
   * Working with missing values, outliers
   * Feature Engenieering
 * Results for the basic ML algorithm
-[Project 2 code](https://github.com/carlosnkd/Titanic)
+
 
  ![](https://github.com/carlosnkd/First_Porfolio/blob/main/IMAGES/Titanic%20Technique.jpg)
 
