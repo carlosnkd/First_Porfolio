@@ -1,6 +1,7 @@
 ## Carlos Nakid First Portfolio
 
 ### Project 1: [Simple Sales Analysis](https://github.com/carlosnkd/Simple-Sales-Analysis)
+[Code](https://github.com/carlosnkd/Simple-Sales-Analysis/blob/main/Simple%20Sales%20Analysis.ipynb)
 * This project it´s focus on how I do the data aproach based on a simple exploratory analysis.
   * Combine data
   * Basic Feature Engineering
@@ -9,7 +10,7 @@
 * The data consists on 12 files each on them simulating the sales for an electronic store based on the United States
 * The info here would help (if real) to make business decisions based on the results
 
-[Project 1 code](https://github.com/carlosnkd/Simple-Sales-Analysis/blob/main/Simple%20Sales%20Analysis.ipynb)
+
 
 ![](https://github.com/carlosnkd/First_Porfolio/blob/main/IMAGES/plot.jpg)
 
@@ -30,6 +31,7 @@
 
 
 ### Project 3: [International Report Passengers](https://github.com/carlosnkd/Flights)
+[Code](https://github.com/carlosnkd/Flights/blob/main/Flights.ipynb)
 * This project its about how the US airline industry has develop within the last 20 years based on the scheduled passenger flights
 * Some techniques used:
    * Combining dataframes
