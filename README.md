@@ -19,7 +19,7 @@ Big Picture of the data:
 
 
 ### Preject 2: [Basic ML algorithm](https://github.com/carlosnkd/Titanic)
-[Code](https://github.com/carlosnkd/Titanic/blob/main/Titanic.ipynb)
+[Code](https://github.com/carlosnkd/Titanic/blob/main/Titanic%20Random%20Forest.ipynb)
 * This project is based on the classic [Titanic Kaggle](https://www.kaggle.com/c/titanic/data) dataset
 * The main goal is to show the process before get the hands-on the ML model
   * Understanding the data and prepare it
